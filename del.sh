@@ -1,9 +1,9 @@
 #!/bin/bash
 
-TOKEN="xxxxxxxxxxxxxxxxxxx"
-ZONE_ID=2222222222222222222222222
+TOKEN="xOAW7NsFIF4XYwNJepiVMae7TtG6Dtwcpg3rGFdg"
+ZONE_ID=abc95c321a9105108a07cd62940e5c58
 
-# EMAIL=me@gmail.com
+# EMAIL=jrotmajrot@gmail.com
 # KEY=11111111111111111111111111
 # Replace with 
 #     -H "X-Auth-Email: ${EMAIL}" \
